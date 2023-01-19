@@ -1,0 +1,1 @@
+export const applicationSelector = (store) => (store.applications.applications)

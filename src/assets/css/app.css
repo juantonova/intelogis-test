@@ -1,0 +1,27 @@
+.table__container {
+  align-self: center;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}
+
+.map__container {
+  height: 600px;
+  width: 100%;
+  align-self: center;
+}
+
+body {
+  margin: 0;
+}
+
+.content__container {
+  width: calc(100% - 160px);
+  height: 100vh;
+  min-height: 600px;
+  margin: 0 80px;
+  display: flex;
+  gap: 20px;
+}/*# sourceMappingURL=app.css.map */

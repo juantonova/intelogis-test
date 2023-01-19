@@ -1,0 +1,1 @@
+export const currentRouteSelector = (store) => (store.applications.currentRoute)

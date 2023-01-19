@@ -1,0 +1,1 @@
+export const currentAppSelector = (store) => (store.applications.currentApplication)
